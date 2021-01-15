@@ -3,3 +3,5 @@ Hola mi nombre es José Corona
 Soy estudiante de desarrollo web :D
 
 Hola mundo, me encanta viajar por todos los países donde el clima sea muy frio.
+
+Me gustan las hamburguesas
