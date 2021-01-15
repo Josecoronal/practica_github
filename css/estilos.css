@@ -11,4 +11,15 @@ body{
 
 h2 {
     margin-top:0px;
+<<<<<<< HEAD
+=======
+}
+
+.encabezado {
+    background-color: darkcyan;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    box-shadow: 0px 10px 10px black;
+>>>>>>> header
 }
