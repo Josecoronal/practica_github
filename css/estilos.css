@@ -22,6 +22,32 @@ h2 {
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 10px 10px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.encabezado figure{
+    width: 120px;
+    height: 100px;
+    margin: 0;
+}
+
+.encabezado figure img{
+    width: inherit;
+    height: inherit;
+}
+
+ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
 }
 
 h3{
