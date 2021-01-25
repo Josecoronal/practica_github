@@ -30,11 +30,7 @@ h2 {
 .encabezado figure{
     width: 120px;
     height: 100px;
-<<<<<<< HEAD
-    margin: 0;
-=======
     margin: 0;  
->>>>>>> footer
 }
 
 .encabezado figure img{
@@ -52,6 +48,7 @@ a {
     padding: 10px;
     text-decoration: none;
     color: white;
+    display: inherit;
 }
 
 h3{
